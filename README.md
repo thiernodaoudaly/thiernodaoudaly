@@ -154,19 +154,7 @@ graph TD
 <!-- contact -->
 ### Contact
 
-<p align="left">
-  <a href="https://linkedin.com/in/thierno-daouda-ly" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/brand-linkedin.svg" width="24" height="24" style="filter: invert(60%) sepia(0%) saturate(0%) brightness(85%);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tchernodawda@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/mail.svg" width="24" height="24" style="filter: invert(60%) sepia(0%) saturate(0%) brightness(85%);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/thiernodaoudaly">
-    <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/brand-github.svg" width="24" height="24" style="filter: invert(60%) sepia(0%) saturate(0%) brightness(85%);" />
-  </a>
-</p>
+<p align="left">[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4Qjk0OUUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0bTAgMmEyIDIgMCAwIDEgMiAtMmgxMmEyIDIgMCAwIDEgMiAydjEyYTIgMiAwIDAgMSAtMiAyaC0xMmEyIDIgMCAwIDEgLTIgLTJ6Ii8+PHBhdGggZD0iTTggMTFsMCA1Ii8+PHBhdGggZD0iTTggOGwwIC4wMSIvPjxwYXRoIGQ9Ik0xMiAxNmwwIC01Ii8+PHBhdGggZD0iTTE2IDE2di0zYTIgMiAwIDAgMCAtNCAwIi8+PC9zdmc+&logoColor=8B949E)](https://linkedin.com/in/thierno-daouda-ly) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4Qjk0OUUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyA3YTIgMiAwIDAgMSAyIC0yaDE0YTIgMiAwIDAgMSAyIDJ2MTBhMiAyIDAgMCAxIC0yIDJoLTE0YTIgMiAwIDAgMSAtMiAtMnYtMTB6Ii8+PHBhdGggZD0iTTMgN2w5IDZsOSAtNiIvPjwvc3ZnPg==&logoColor=8B949E)](mailto:tchernodawda@gmail.com) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4Qjk0OUUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOSAxOWMtNC4zIDEuNCAtNC4zIC0yLjUgLTYgLTNtMTIgNXYtMy41YzAgLTEgLjEgLTEuNCAtLjUgLTJjMi44IC0uMyA1LjUgLTEuNCA1LjUgLTZhNC42IDQuNiAwIDAgMCAtMS4zIC0zLjJhNC4yIDQuMiAwIDAgMCAtLjEgLTMuMnMtMS4xIC0uMyAtMy41IDEuM2ExMi4zIDEyLjMgMCAwIDAgLTYuMiAwYy0yLjQgLTEuNiAtMy41IC0xLjMgLTMuNSAtMS4zYTQuMiA0LjIgMCAwIDAgLS4xIDMuMmE0LjYgNC42IDAgMCAwIC0xLjMgMy4yYzAgNC42IDIuNyA1LjcgNS41IDZjLS42IC42IC0uNiAxLjIgLS41IDJ2My41Ii8+PC9zdmc+&logoColor=8B949E)](https://github.com/thiernodaoudaly)</p>
 
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=thiernodaoudaly.thiernodaoudaly&style=flat&color=161b22&labelColor=0d1117" />
