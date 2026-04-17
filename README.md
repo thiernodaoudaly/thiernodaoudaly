@@ -168,6 +168,6 @@ graph TD
   </a>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=thiernodaoudaly.thiernodaoudaly&style=flat&color=161b22&labelColor=0d1117" />
-</p>
+</p> -->
