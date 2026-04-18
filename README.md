@@ -5,6 +5,10 @@
 
 </div>
 
+<div align="center">
+  <img src="./assets/header.png" width="100%" />
+</div>
+
 ---
 
 <!-- bio -->
