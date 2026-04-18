@@ -64,8 +64,6 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 </div>
 
----
-
 <!-- 3D profile -->
 ### 3D Contribution Graph
 
@@ -73,15 +71,12 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 
 <!-- contact --> 
-<!-- ### Connect with me  -->
+### Connect with me 
 
-<!-- <a href="https://linkedin.com/in/thiernodaoudaly" target="_blank"><img src="./assets/images/brand-linkedin.svg" height="30" width="30" /></a>&nbsp;&nbsp;<a href="mailto:tchernodawda@gmail.com"><img src="./assets/images/mail.svg" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1413630870169849886"><img src="./assets/images/brand-discord.svg" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/thiernodaoudaly" target="_blank"><img src="./assets/images/brand-linkedin.svg" height="30" width="30" /></a>&nbsp;&nbsp;<a href="mailto:tchernodawda@gmail.com"><img src="./assets/images/mail.svg" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1413630870169849886"><img src="./assets/images/brand-discord.svg" height="29" width="30" /></a>
 
+---
 
-![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme) -->
-
-### Connect with me
-
-| | |
-|:---|---:|
-| <a href="https://linkedin.com/in/thiernodaoudaly" target="_blank"><img src="./assets/images/brand-linkedin.svg" height="30" width="30" /></a>&nbsp;&nbsp;<a href="mailto:tchernodawda@gmail.com"><img src="./assets/images/mail.svg" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1413630870169849886"><img src="./assets/images/brand-discord.svg" height="30" width="30" /></a> | ![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme) |
+<!-- Views --> 
+### Profile Views
+![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme)
