@@ -75,6 +75,7 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 <!-- Views --> 
 ### Profile Views
 ![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme)
+
 *Visits counted from April 2025*
 
 ---
