@@ -69,13 +69,13 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 ### Contact
 
 <a href="https://linkedin.com/in/thiernodaoudaly" target="_blank">
-  <img src="./assets/images/brand-linkedin.svg" height="30" width="30" stroke="#c9d1d9"/>
+  <img src="./assets/images/brand-linkedin.svg" height="40" width="40"/>
 </a>
 &nbsp;
 <a href="mailto:tchernodawda@gmail.com">
-  <img src="./assets/images/mail.svg" height="30" width="30" stroke="#c9d1d9"/>
+  <img src="./assets/images/mail.svg" height="40" width="40"/>
 </a>
 &nbsp;
 <a href="https://discord.com/users/1413630870169849886">
-  <img src="./assets/images/brand-discord.svg" height="30" width="30" stroke="#c9d1d9"/>
+  <img src="./assets/images/brand-discord.svg" height="40" width="40"/>
 </a>
