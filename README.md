@@ -65,12 +65,3 @@ Open to research internships and AI/Data engineering roles.
 </div>
 
 ---
-
-<!-- contact -->
-### Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat&logo=linkedin&logoColor=8B949E)](https://linkedin.com/in/thierno-daouda-ly) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=flat&logo=gmail&logoColor=8B949E)](mailto:tchernodawda@gmail.com) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat&logo=github&logoColor=8B949E)](https://github.com/thiernodaoudaly)
-
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thiernodaoudaly.thiernodaoudaly&style=flat&color=161b22&labelColor=0d1117" />
-</p>
