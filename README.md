@@ -67,6 +67,12 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 ---
 
+<!-- 3D profile -->
+### 3D Contribution Graph
+
+![3D Profile](./profile-3d-contrib/profile-night-green.svg)
+
+
 <!-- contact --> 
 ### Connect with me 
 
