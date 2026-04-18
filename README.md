@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/header.png" width="100%" />
+  <img src="./assets/images/header.png" width="100%" />
 </div>
 
 ---
