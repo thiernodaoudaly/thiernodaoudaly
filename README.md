@@ -21,8 +21,7 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 [![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thiernodaouda.vercel.app)
 
-
-<br clear="right"/>
+<!-- <br clear="right"/> -->
 
 ---
 
@@ -74,18 +73,15 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 
 <!-- contact --> 
-### Connect with me 
+<!-- ### Connect with me  -->
 
-<!-- <a href="https://linkedin.com/in/thiernodaoudaly" target="_blank">
-  <img src="./assets/images/brand-linkedin.svg" height="35" width="35"/>
-</a>
-<a href="https://discord.com/users/1413630870169849886">
-  <img src="./assets/images/brand-discord.svg" height="34" width="35"/>
-</a>
-<a href="mailto:tchernodawda@gmail.com">
-  <img src="./assets/images/mail.svg" height="35" width="35"/>
-</a> -->
-<a href="https://linkedin.com/in/thiernodaoudaly" target="_blank"><img src="./assets/images/brand-linkedin.svg" height="30" width="30" /></a>&nbsp;&nbsp;<a href="mailto:tchernodawda@gmail.com"><img src="./assets/images/mail.svg" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1413630870169849886"><img src="./assets/images/brand-discord.svg" height="30" width="30" /></a>
+<!-- <a href="https://linkedin.com/in/thiernodaoudaly" target="_blank"><img src="./assets/images/brand-linkedin.svg" height="30" width="30" /></a>&nbsp;&nbsp;<a href="mailto:tchernodawda@gmail.com"><img src="./assets/images/mail.svg" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1413630870169849886"><img src="./assets/images/brand-discord.svg" height="30" width="30" /></a>
 
 
-![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme)
+![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme) -->
+
+### Connect with me
+
+| | |
+|:---|---:|
+| <a href="https://linkedin.com/in/thiernodaoudaly" target="_blank"><img src="./assets/images/brand-linkedin.svg" height="30" width="30" /></a>&nbsp;&nbsp;<a href="mailto:tchernodawda@gmail.com"><img src="./assets/images/mail.svg" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1413630870169849886"><img src="./assets/images/brand-discord.svg" height="30" width="30" /></a> | ![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme) |
