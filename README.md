@@ -19,6 +19,8 @@
 Final year Computer Science Engineering student at Ecole Polytechnique de Thiès (EPT), Senegal.
 Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deployments. I am currently seeking opportunities as an AI Engineer, Machine Learning Engineer, Cloud Data Engineer, or in research-oriented AI environments.
 
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thiernodaouda.vercel.app)
+
 
 <br clear="right"/>
 
@@ -65,64 +67,16 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 ---
 
-<!-- star history -->
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=thiernodaoudaly/finscope-rag,thiernodaoudaly/artify,thiernodaoudaly/tontuma,thiernodaoudaly/graphlens&type=Date&theme=dark)](https://star-history.com/#thiernodaoudaly/finscope-rag&thiernodaoudaly/artify&thiernodaoudaly/tontuma&thiernodaoudaly/graphlens&Date)
-
----
-
-<!-- map -->
-### Dakar, Senegal
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-17.4441, 14.6937]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-17.535, 14.755],
-            [-17.150, 14.755],
-            [-17.150, 14.580],
-            [-17.535, 14.580],
-            [-17.535, 14.755]
-          ]
-        ]
-      }
-    }
-  ]
-}
-``` 
-
-### Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thiernodaouda.vercel.app)
-
 <!-- contact --> 
 ### Connect with me 
 
-<div align="center">
-  <a href="https://linkedin.com/in/thiernodaoudaly" target="_blank">
-    <img src="./assets/images/brand-linkedin.svg" height="35" width="35"/>
-  </a>
-  <a href="mailto:tchernodawda@gmail.com">
-    <img src="./assets/images/mail.svg" height="35" width="35"/>
-  </a>
-  <a href="https://discord.com/users/1413630870169849886">
-    <img src="./assets/images/brand-discord.svg" height="35" width="35"/>
-  </a>
-</div>
+<a href="https://linkedin.com/in/thiernodaoudaly" target="_blank">
+  <img src="./assets/images/brand-linkedin.svg" height="35" width="35"/>
+</a>
+<a href="mailto:tchernodawda@gmail.com">
+  <img src="./assets/images/mail.svg" height="35" width="35"/>
+</a>
+<a href="https://discord.com/users/1413630870169849886">
+  <img src="./assets/images/brand-discord.svg" height="35" width="35"/>
+</a>
 
