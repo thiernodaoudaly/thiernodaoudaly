@@ -14,13 +14,12 @@
 <!-- bio -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117" width="38%" />
 
-**Thierno Daouda Ly**
+**Thierno Daouda LY**
 
-Computer Science & AI Engineering student at EPT (GIT dept.), Dakar.
+I am a Computer Science & AI Engineering student at Ecole Polytechnique de Thiès (EPT), Senegal.
 Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deployments.
 Open to research internships and AI/Data engineering roles.
 
-Dakar, Senegal &nbsp;·&nbsp; EPT — Genie Informatique & Telecommunications
 
 <br clear="right"/>
 
@@ -64,28 +63,6 @@ Dakar, Senegal &nbsp;·&nbsp; EPT — Genie Informatique & Telecommunications
 ![snake dark](https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
-
----
-
-<!-- mermaid -->
-### AI / Data Landscape
-
-```mermaid
-graph TD
-    A[AI and Data Engineering] --> B[Machine Learning]
-    A --> C[Big Data]
-    A --> D[Cloud and DevOps]
-    A --> E[Generative AI]
-    B --> B1[Deep Learning]
-    B --> B2[Computer Vision]
-    B --> B3[NLP / Transformers]
-    C --> C1[Spark Streaming]
-    C --> C2[MapReduce / Hadoop]
-    D --> D1[Docker / Kubernetes]
-    D --> D2[CI/CD / MLOps]
-    E --> E1[RAG Systems]
-    E --> E2[LLMs / Claude / Gemini]
-```
 
 ---
 
