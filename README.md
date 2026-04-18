@@ -1,7 +1,7 @@
-<!-- typing SVG -->
+<!-- header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineering+Student+%40+EPT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile+!;AI+%26+Data+Engineering+Student+%40+EPT;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@ Computer Science & AI Engineering student at EPT (GIT dept.), Dakar.
 Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deployments.
 Open to research internships and AI/Data engineering roles.
 
-📍 Dakar, Sénégal &nbsp;·&nbsp; 🎓 EPT — Génie Informatique & Télécommunications
+Dakar, Senegal &nbsp;·&nbsp; EPT — Genie Informatique & Telecommunications
 
 <br clear="right"/>
 
@@ -27,12 +27,14 @@ Open to research internships and AI/Data engineering roles.
 
 | Domain | Stack |
 |---|---|
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat&logo=pytorch&logoColor=8B949E) ![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=flat&logo=tensorflow&logoColor=8B949E) ![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=flat&logo=huggingface&logoColor=8B949E) ![scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=flat&logo=scikitlearn&logoColor=8B949E) |
-| **Generative AI / RAG** | ![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat&logoColor=8B949E) ![OpenSearch](https://img.shields.io/badge/OpenSearch-161b22?style=flat&logoColor=8B949E) ![Claude](https://img.shields.io/badge/Claude-161b22?style=flat&logoColor=8B949E) ![Pyro](https://img.shields.io/badge/Pyro-161b22?style=flat&logoColor=8B949E) |
-| **Big Data** | ![PySpark](https://img.shields.io/badge/PySpark-161b22?style=flat&logo=apachespark&logoColor=8B949E) ![Hadoop](https://img.shields.io/badge/Hadoop-161b22?style=flat&logo=apachehadoop&logoColor=8B949E) ![Kafka](https://img.shields.io/badge/Kafka-161b22?style=flat&logo=apachekafka&logoColor=8B949E) |
-| **Cloud / DevOps** | ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat&logo=docker&logoColor=8B949E) ![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=flat&logo=kubernetes&logoColor=8B949E) ![Railway](https://img.shields.io/badge/Railway-161b22?style=flat&logo=railway&logoColor=8B949E) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=8B949E) ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript&logoColor=8B949E) ![SQL](https://img.shields.io/badge/SQL-161b22?style=flat&logo=postgresql&logoColor=8B949E) ![Java](https://img.shields.io/badge/Java-161b22?style=flat&logo=openjdk&logoColor=8B949E) |
-| **Frameworks** | ![Django](https://img.shields.io/badge/Django-161b22?style=flat&logo=django&logoColor=8B949E) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat&logo=fastapi&logoColor=8B949E) ![Angular](https://img.shields.io/badge/Angular-161b22?style=flat&logo=angular&logoColor=8B949E) |
+| **Artificial Intelligence** | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-161b22?style=flat&logoColor=8B949E) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-161b22?style=flat&logoColor=8B949E) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-161b22?style=flat&logoColor=8B949E) ![NLP](https://img.shields.io/badge/NLP-161b22?style=flat&logoColor=8B949E) ![Transformers](https://img.shields.io/badge/Transformers-161b22?style=flat&logoColor=8B949E) ![LLMs](https://img.shields.io/badge/LLMs-161b22?style=flat&logoColor=8B949E) ![Generative AI](https://img.shields.io/badge/Generative%20AI-161b22?style=flat&logoColor=8B949E) ![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-161b22?style=flat&logoColor=8B949E) ![RAG](https://img.shields.io/badge/RAG-161b22?style=flat&logoColor=8B949E) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=8B949E) ![Java](https://img.shields.io/badge/Java-161b22?style=flat&logo=openjdk&logoColor=8B949E) ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript&logoColor=8B949E) ![SQL](https://img.shields.io/badge/SQL-161b22?style=flat&logo=postgresql&logoColor=8B949E) |
+| **ML Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat&logo=pytorch&logoColor=8B949E) ![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=flat&logo=tensorflow&logoColor=8B949E) ![scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=flat&logo=scikitlearn&logoColor=8B949E) ![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=flat&logo=huggingface&logoColor=8B949E) ![Pyro](https://img.shields.io/badge/Pyro-161b22?style=flat&logoColor=8B949E) ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat&logo=opencv&logoColor=8B949E) |
+| **Technologies & Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat&logo=fastapi&logoColor=8B949E) ![Django](https://img.shields.io/badge/Django-161b22?style=flat&logo=django&logoColor=8B949E) ![Angular](https://img.shields.io/badge/Angular-161b22?style=flat&logo=angular&logoColor=8B949E) ![Streamlit](https://img.shields.io/badge/Streamlit-161b22?style=flat&logo=streamlit&logoColor=8B949E) ![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat&logoColor=8B949E) ![Spark](https://img.shields.io/badge/Spark-161b22?style=flat&logo=apachespark&logoColor=8B949E) ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat&logo=docker&logoColor=8B949E) ![Kafka](https://img.shields.io/badge/Kafka-161b22?style=flat&logo=apachekafka&logoColor=8B949E) ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-161b22?style=flat&logoColor=8B949E) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-161b22?style=flat&logo=amazonaws&logoColor=8B949E) ![GCP](https://img.shields.io/badge/GCP-161b22?style=flat&logo=googlecloud&logoColor=8B949E) ![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=flat&logo=kubernetes&logoColor=8B949E) ![CI/CD](https://img.shields.io/badge/CI/CD-161b22?style=flat&logoColor=8B949E) ![MLOps](https://img.shields.io/badge/MLOps-161b22?style=flat&logoColor=8B949E) ![MLflow](https://img.shields.io/badge/MLflow-161b22?style=flat&logo=mlflow&logoColor=8B949E) ![Railway](https://img.shields.io/badge/Railway-161b22?style=flat&logo=railway&logoColor=8B949E) |
+| **Big Data** | ![PySpark](https://img.shields.io/badge/PySpark-161b22?style=flat&logo=apachespark&logoColor=8B949E) ![Hadoop](https://img.shields.io/badge/Hadoop-161b22?style=flat&logo=apachehadoop&logoColor=8B949E) ![Kafka](https://img.shields.io/badge/Kafka-161b22?style=flat&logo=apachekafka&logoColor=8B949E) ![Trino](https://img.shields.io/badge/Trino-161b22?style=flat&logoColor=8B949E) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat&logo=postgresql&logoColor=8B949E) ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat&logo=mongodb&logoColor=8B949E) ![Neo4j](https://img.shields.io/badge/Neo4j-161b22?style=flat&logo=neo4j&logoColor=8B949E) ![ChromaDB](https://img.shields.io/badge/ChromaDB-161b22?style=flat&logoColor=8B949E) ![OpenSearch](https://img.shields.io/badge/OpenSearch-161b22?style=flat&logoColor=8B949E) ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat&logo=sqlite&logoColor=8B949E) |
+| **Soft Skills** | ![Teamwork](https://img.shields.io/badge/Teamwork-161b22?style=flat&logoColor=8B949E) ![Autonomy](https://img.shields.io/badge/Autonomy-161b22?style=flat&logoColor=8B949E) ![Problem-solving](https://img.shields.io/badge/Problem--solving-161b22?style=flat&logoColor=8B949E) ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-161b22?style=flat&logoColor=8B949E) ![Curiosity](https://img.shields.io/badge/Curiosity-161b22?style=flat&logoColor=8B949E) ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-161b22?style=flat&logoColor=8B949E) ![Communication](https://img.shields.io/badge/Communication-161b22?style=flat&logoColor=8B949E) ![Time Management](https://img.shields.io/badge/Time%20Management-161b22?style=flat&logoColor=8B949E) |
 
 ---
 
@@ -61,92 +63,24 @@ Open to research internships and AI/Data engineering roles.
 
 ---
 
-<!-- projects -->
-### Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/thiernodaoudaly/finscope-rag">FinScope RAG</a></h4>
-      <p>Multimodal RAG system for financial report analysis — Claude Vision · BGE-M3 · OpenSearch hybrid search · 84.4% RAGAS score · Built for Sonatel's Finance & HR division.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=8B949E" />
-        <img src="https://img.shields.io/badge/LangChain-161b22?style=flat&logoColor=8B949E" />
-        <img src="https://img.shields.io/badge/Claude-161b22?style=flat&logoColor=8B949E" />
-      </p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/thiernodaoudaly/graphlens">GraphLens</a></h4>
-      <p>Django web app for data table lineage & metadata management backed by Neo4j — built at Sonatel's Data/AI Business Management department.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Django-161b22?style=flat&logo=django&logoColor=8B949E" />
-        <img src="https://img.shields.io/badge/Neo4j-161b22?style=flat&logo=neo4j&logoColor=8B949E" />
-        <img src="https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=8B949E" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/thiernodaoudaly/artify">Artify</a></h4>
-      <p>PyTorch implementation of Neural Style Transfer (Gatys et al. 2016) — VGG19 feature extraction, Gram matrix style loss, L-BFGS optimisation, Streamlit web app.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat&logo=pytorch&logoColor=8B949E" />
-        <img src="https://img.shields.io/badge/Streamlit-161b22?style=flat&logo=streamlit&logoColor=8B949E" />
-        <img src="https://img.shields.io/badge/VGG19-161b22?style=flat&logoColor=8B949E" />
-      </p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/thiernodaoudaly/tontuma">Tontuma</a></h4>
-      <p>Streamlit VQA app powered by ViLT — upload an image, ask a question, get an instant answer. "Tontu ma" means "show me" in Wolof.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HuggingFace-161b22?style=flat&logo=huggingface&logoColor=8B949E" />
-        <img src="https://img.shields.io/badge/Streamlit-161b22?style=flat&logo=streamlit&logoColor=8B949E" />
-        <img src="https://img.shields.io/badge/ViLT-161b22?style=flat&logoColor=8B949E" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/thiernodaoudaly/ai-vs-human-text">TextDetect</a></h4>
-      <p>Django web app that classifies text as AI-generated or human-written — Logistic Regression + TF-IDF + spaCy feature engineering, trained on 260K samples.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Django-161b22?style=flat&logo=django&logoColor=8B949E" />
-        <img src="https://img.shields.io/badge/scikit--learn-161b22?style=flat&logo=scikitlearn&logoColor=8B949E" />
-        <img src="https://img.shields.io/badge/spaCy-161b22?style=flat&logoColor=8B949E" />
-      </p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/thiernodaoudaly/smartquery">SmartQuery</a></h4>
-      <p>Voice-enabled AI desktop assistant — Google STT + PaLM API + pyttsx3 TTS, Markdown responses rendered in Tkinter via tkhtmlview, multithreaded UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=8B949E" />
-        <img src="https://img.shields.io/badge/Tkinter-161b22?style=flat&logoColor=8B949E" />
-        <img src="https://img.shields.io/badge/Google_STT-161b22?style=flat&logo=google&logoColor=8B949E" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 <!-- mermaid -->
 ### AI / Data Landscape
 
 ```mermaid
 graph TD
-    A[AI & Data Engineering] --> B[Machine Learning]
+    A[AI and Data Engineering] --> B[Machine Learning]
     A --> C[Big Data]
-    A --> D[Cloud & DevOps]
+    A --> D[Cloud and DevOps]
     A --> E[Generative AI]
     B --> B1[Deep Learning]
     B --> B2[Computer Vision]
     B --> B3[NLP / Transformers]
     C --> C1[Spark Streaming]
-    C --> C2[MapReduce · Hadoop]
-    D --> D1[Docker · Kubernetes]
-    D --> D2[CI/CD · Railway]
+    C --> C2[MapReduce / Hadoop]
+    D --> D1[Docker / Kubernetes]
+    D --> D2[CI/CD / MLOps]
     E --> E1[RAG Systems]
-    E --> E2[LLMs · Claude · Gemini]
+    E --> E2[LLMs / Claude / Gemini]
 ```
 
 ---
@@ -154,20 +88,8 @@ graph TD
 <!-- contact -->
 ### Contact
 
-<p align="left">
-  <a href="https://linkedin.com/in/thierno-daouda-ly" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/brand-linkedin.svg" width="24" height="24" style="filter: invert(60%) sepia(0%) saturate(0%) brightness(85%);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tchernodawda@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/mail.svg" width="24" height="24" style="filter: invert(60%) sepia(0%) saturate(0%) brightness(85%);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/thiernodaoudaly">
-    <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/brand-github.svg" width="24" height="24" style="filter: invert(60%) sepia(0%) saturate(0%) brightness(85%);" />
-  </a>
-</p>
+<p align="left">[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4Qjk0OUUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0bTAgMmEyIDIgMCAwIDEgMiAtMmgxMmEyIDIgMCAwIDEgMiAydjEyYTIgMiAwIDAgMSAtMiAyaC0xMmEyIDIgMCAwIDEgLTIgLTJ6Ii8+PHBhdGggZD0iTTggMTFsMCA1Ii8+PHBhdGggZD0iTTggOGwwIC4wMSIvPjxwYXRoIGQ9Ik0xMiAxNmwwIC01Ii8+PHBhdGggZD0iTTE2IDE2di0zYTIgMiAwIDAgMCAtNCAwIi8+PC9zdmc+&logoColor=8B949E)](https://linkedin.com/in/thierno-daouda-ly) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4Qjk0OUUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyA3YTIgMiAwIDAgMSAyIC0yaDE0YTIgMiAwIDAgMSAyIDJ2MTBhMiAyIDAgMCAxIC0yIDJoLTE0YTIgMiAwIDAgMSAtMiAtMnYtMTB6Ii8+PHBhdGggZD0iTTMgN2w5IDZsOSAtNiIvPjwvc3ZnPg==&logoColor=8B949E)](mailto:tchernodawda@gmail.com) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4Qjk0OUUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOSAxOWMtNC4zIDEuNCAtNC4zIC0yLjUgLTYgLTNtMTIgNXYtMy41YzAgLTEgLjEgLTEuNCAtLjUgLTJjMi44IC0uMyA1LjUgLTEuNCA1LjUgLTZhNC42IDQuNiAwIDAgMCAtMS4zIC0zLjJhNC4yIDQuMiAwIDAgMCAtLjEgLTMuMnMtMS4xIC0uMyAtMy41IDEuM2ExMi4zIDEyLjMgMCAwIDAgLTYuMiAwYy0yLjQgLTEuNiAtMy41IC0xLjMgLTMuNSAtMS4zYTQuMiA0LjIgMCAwIDAgLS4xIDMuMmE0LjYgNC42IDAgMCAwIC0xLjMgMy4yYzAgNC42IDIuNyA1LjcgNS41IDZjLS42IC42IC0uNiAxLjIgLS41IDJ2My41Ii8+PC9zdmc+&logoColor=8B949E)](https://github.com/thiernodaoudaly)</p>
 
-<!-- <p align="left">
+<p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=thiernodaoudaly.thiernodaoudaly&style=flat&color=161b22&labelColor=0d1117" />
-</p> -->
+</p>
