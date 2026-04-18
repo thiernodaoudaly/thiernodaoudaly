@@ -14,11 +14,10 @@
 <!-- bio -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117" width="38%" />
 
-**Thierno Daouda LY**
+**Hi, I am Thierno**
 
-I am a Computer Science & AI Engineering student at Ecole Polytechnique de Thiès (EPT), Senegal.
-Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deployments.
-Open to research internships and AI/Data engineering roles.
+Final year Computer Science Engineering student at Ecole Polytechnique de Thiès (EPT), Senegal.
+Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deployments. I am currently seeking opportunities as an AI Engineer, Machine Learning Engineer, Cloud Data Engineer, or in research-oriented AI environments.
 
 
 <br clear="right"/>
@@ -66,9 +65,17 @@ Open to research internships and AI/Data engineering roles.
 
 ---
 
-<!-- contact -->
+<!-- contact --> 
 ### Contact
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat&logo=linkedin&logoColor=8B949E)](https://linkedin.com/in/thiernodaoudaly) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=flat&logo=gmail&logoColor=8B949E)](mailto:tchernodawda@gmail.com)
- 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=thiernodaoudaly.thiernodaoudaly&style=flat&color=161b22&labelColor=0d1117)
+
+<a href="https://linkedin.com/in/thiernodaoudaly" target="_blank">
+  <img src="./assets/images/brand-linkedin.svg" height="30" width="30" />
+</a>
+&nbsp;
+<a href="mailto:tchernodawda@gmail.com">
+  <img src="./assets/images/mail.svg" height="30" width="30" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/1413630870169849886">
+  <img src="./assets/images/brand-discord.svg" height="30" width="30" />
+</a>
