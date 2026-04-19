@@ -9,8 +9,6 @@
   <img src="./assets/images/header.png" width="100%" />
 </div>
 
----
-
 <!-- bio -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117" width="38%" />
 
@@ -20,8 +18,6 @@ Final year Computer Science Engineering student at Ecole Polytechnique de Thiès
 Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deployments. I am currently seeking opportunities as an AI Engineer, Machine Learning Engineer, Cloud Data Engineer, or in research-oriented AI environments.
 
 [![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thiernodaouda.vercel.app)
-
-<!-- <br clear="right"/> -->
 
 ---
 
@@ -44,7 +40,7 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 <!-- stats -->
 ### GitHub Stats
 
-<div align="left">
+<div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=thiernodaoudaly&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiernodaoudaly&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E)
 
@@ -77,3 +73,9 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 ### Connect with me
 
 <a href="https://linkedin.com/in/thiernodaoudaly" target="_blank"><img src="./assets/images/brand-linkedin.svg" height="40" width="40" /></a>&nbsp;&nbsp;<a href="mailto:tchernodawda@gmail.com"><img src="./assets/images/mail.svg" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1413630870169849886"><img src="./assets/images/brand-discord.svg" height="39" width="39" /></a> 
+
+--- 
+
+<div align="center">
+  <img src="./assets/images/header.png" width="100%" />
+</div>
