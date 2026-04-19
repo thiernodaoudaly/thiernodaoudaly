@@ -77,5 +77,5 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 --- 
 
 <div align="center">
-  <img src="./assets/images/header.png" width="100%" />
+  <img src="./assets/images/luca.gif" width="100%" />
 </div>
