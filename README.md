@@ -71,6 +71,8 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 *Visits counted from April 2026*
 
+![](./assets/images/bottom_down.svg)
+
 
 <!-- Contact  
 ### Connect with me
