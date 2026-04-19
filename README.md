@@ -1,8 +1,6 @@
 <!-- header -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile+!;AI+%26+Data+Engineering+Student+%40+EPT;Always+learning+new+things)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile+!;AI+%26+Data+Engineering+Student+%40+EPT;Always+learning+new+things)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -68,13 +66,14 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 ### Profile Views
 ![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme)
 
-*Visits counted from April 2025*
+*Visits counted from April 2026*
 
+---
+
+<!-- Contact --> 
 ### Connect with me
 
 <a href="https://linkedin.com/in/thiernodaoudaly" target="_blank"><img src="./assets/images/brand-linkedin.svg" height="40" width="40" /></a>&nbsp;&nbsp;<a href="mailto:tchernodawda@gmail.com"><img src="./assets/images/mail.svg" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1413630870169849886"><img src="./assets/images/brand-discord.svg" height="39" width="39" /></a> 
-
---- 
 
 <div align="center">
   <img src="./assets/images/luca.gif" width="100%" />
