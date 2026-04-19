@@ -71,8 +71,9 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 *Visits counted from April 2026*
 
-![](./assets/images/bottom_down.svg)
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!-- Contact  
 ### Connect with me
