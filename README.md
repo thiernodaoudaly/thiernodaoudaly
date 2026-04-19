@@ -19,6 +19,11 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 [![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thiernodaouda.vercel.app)
 
+**Connect with me**
+<div align="center">
+<a href="https://linkedin.com/in/thiernodaoudaly" target="_blank"><img src="./assets/images/brand-linkedin.svg" height="40" width="40" /></a>&nbsp;&nbsp;<a href="mailto:tchernodawda@gmail.com"><img src="./assets/images/mail.svg" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1413630870169849886"><img src="./assets/images/brand-discord.svg" height="39" width="39" /></a> 
+</div>
+
 ---
 
 <!-- skills -->
