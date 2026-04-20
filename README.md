@@ -79,7 +79,7 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
   <tr>
     <td valign="middle">
       <!-- Profile Views -->
-      <img src="TON_URL_PROFILE_VIEWS" />
+      <img src="https://count.getloli.com/get/@thiernodaoudaly.github.readme" />
     </td>
     <td valign="middle">
       <!-- Snake -->
