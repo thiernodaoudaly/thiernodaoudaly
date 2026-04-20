@@ -19,8 +19,6 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 [![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thiernodaouda.vercel.app)
 
----
-
 <!-- skills -->
 **Skills**
 
@@ -34,8 +32,6 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 | **Big Data** | ![PySpark](https://img.shields.io/badge/PySpark-161b22?style=flat&logo=apachespark&logoColor=8B949E) ![Hadoop](https://img.shields.io/badge/Hadoop-161b22?style=flat&logo=apachehadoop&logoColor=8B949E) ![Kafka](https://img.shields.io/badge/Kafka-161b22?style=flat&logo=apachekafka&logoColor=8B949E) ![Trino](https://img.shields.io/badge/Trino-161b22?style=flat&logoColor=8B949E) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat&logo=postgresql&logoColor=8B949E) ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat&logo=mongodb&logoColor=8B949E) ![Neo4j](https://img.shields.io/badge/Neo4j-161b22?style=flat&logo=neo4j&logoColor=8B949E) ![ChromaDB](https://img.shields.io/badge/ChromaDB-161b22?style=flat&logoColor=8B949E) ![OpenSearch](https://img.shields.io/badge/OpenSearch-161b22?style=flat&logoColor=8B949E) ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat&logo=sqlite&logoColor=8B949E) |
 | **Soft Skills** | ![Teamwork](https://img.shields.io/badge/Teamwork-161b22?style=flat&logoColor=8B949E) ![Autonomy](https://img.shields.io/badge/Autonomy-161b22?style=flat&logoColor=8B949E) ![Problem-solving](https://img.shields.io/badge/Problem--solving-161b22?style=flat&logoColor=8B949E) ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-161b22?style=flat&logoColor=8B949E) ![Curiosity](https://img.shields.io/badge/Curiosity-161b22?style=flat&logoColor=8B949E) ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-161b22?style=flat&logoColor=8B949E) ![Communication](https://img.shields.io/badge/Communication-161b22?style=flat&logoColor=8B949E) ![Time Management](https://img.shields.io/badge/Time%20Management-161b22?style=flat&logoColor=8B949E) |
-
----
 
 <!-- stats -->
 **GitHub Stats**
@@ -61,8 +57,6 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 **Contribution Graph**
 
 ![3D Profile](./profile-3d-contrib/profile-night-green.svg)
-
----
 
 <!-- Views --> 
 **Profile Views**
