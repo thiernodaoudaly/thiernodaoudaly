@@ -77,12 +77,16 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 <table>
   <tr>
-    <td valign="middle">
-      <!-- Profile Views -->
+    <th>Profile Views</th>
+    <th>Contribution Snake</th>
+  </tr>
+  <tr>
+    <td valign="middle" align="center">
       <img src="https://count.getloli.com/get/@thiernodaoudaly.github.readme" />
+      <br/>
+      <em>Visits counted from April 2026</em>
     </td>
-    <td valign="middle">
-      <!-- Snake -->
+    <td valign="middle" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake.svg" />
