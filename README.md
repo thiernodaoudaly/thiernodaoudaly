@@ -48,6 +48,13 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thiernodaoudaly&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thiernodaoudaly&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E" width="49%" />
+
+</div>
+
 <!-- snake 
 
   <div align="center">
