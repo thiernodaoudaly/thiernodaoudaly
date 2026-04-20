@@ -73,6 +73,18 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 *Visits counted from April 2026*
 
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
+
+  <img src="https://count.getloli.com/get/@thiernodaoudaly.github.readme" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake.svg" width="75%" />
+  </picture>
+
+</div>
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
