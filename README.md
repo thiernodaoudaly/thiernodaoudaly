@@ -64,7 +64,7 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 **Contribution Graph**
 
 ![3D Profile](./profile-3d-contrib/profile-night-green.svg)
-<img src="./profile-3d-contrib/profile-night-green.svg" height="49%" />
+<!-- <img src="./profile-3d-contrib/profile-night-green.svg" height="49%" /> -->
 
 <!-- Views --> 
 **Profile Views**
@@ -77,16 +77,6 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake.svg" width="49%" />
-</picture>
-<img src="./profile-3d-contrib/profile-night-green.svg" width="49%" />
-
-</div>
 
 <!-- Contact  
 ### Connect with me
