@@ -61,7 +61,7 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 -->
 
 <!-- 3D profile -->
-**Contribution Graph**
+**Contributions**
 
 ![3D Profile](./profile-3d-contrib/profile-night-green.svg)
 <!-- <img src="./profile-3d-contrib/profile-night-green.svg" height="49%" /> -->
@@ -71,17 +71,13 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 ![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme)
 
+![](./assets/images/bottom_down.svg)
+
 <!-- *Visits counted from April 2026* -->
 
-
-**Connect with me**
-
-<div align="right">
+<!-- <div align="right">
 <a href="https://linkedin.com/in/thiernodaoudaly" target="_blank"><img src="./assets/images/brand-linkedin.svg" height="40" width="40" /></a>&nbsp;&nbsp;<a href="mailto:tchernodawda@gmail.com"><img src="./assets/images/mail.svg" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1413630870169849886"><img src="./assets/images/brand-discord.svg" height="39" width="39" /></a> 
-</div>
-
-
-![](./assets/bottom_down.svg)
+</div> -->
 
 
 
