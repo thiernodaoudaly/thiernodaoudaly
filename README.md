@@ -67,16 +67,10 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 ![3D Profile](./profile-3d-contrib/profile-night-green.svg)
 <!-- <img src="./profile-3d-contrib/profile-night-green.svg" height="49%" /> -->
 
-<!-- Views --> 
+<!-- Views 
 **Profile views**
 
-![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme)
-
-<div align="left">
-
-[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thiernodaouda.vercel.app)
-
-</div>
+<!-- ![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme) -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
