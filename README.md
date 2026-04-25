@@ -19,13 +19,12 @@
 Final year Computer Science Engineering student at Ecole Polytechnique de Thiès (EPT), Senegal.
 Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deployments. I am currently seeking opportunities as an AI Engineer, Machine Learning Engineer, Cloud Data Engineer, or in research-oriented AI environments.
 
-<div align="center">
+<div align="left">
 
 [![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thiernodaouda.vercel.app)
 
 </div>
 
-<!-- [![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thiernodaouda.vercel.app) -->
 
 <!-- skills -->
 **Skills**
@@ -72,6 +71,12 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 **Profile views**
 
 ![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme)
+
+<div align="left">
+
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thiernodaouda.vercel.app)
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
