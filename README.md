@@ -5,9 +5,11 @@
 
 </div>
 
+<!-- 
 <div align="center">
   <img src="./assets/images/header.png" width="100%" />
 </div>
+-->
 
 <!-- bio -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117" width="38%" />
@@ -60,7 +62,7 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 -->
 
-<!-- 3D profile -->
+<!-- 3D profile 
 **Contributions**
 
 ![3D Profile](./profile-3d-contrib/profile-night-green.svg)
