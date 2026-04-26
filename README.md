@@ -1,7 +1,9 @@
 <!-- header -->
+<!-- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
+-->
 
 <div align="center">
 
@@ -76,11 +78,12 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 <!-- Views 
 **Profile views**
 
-<!-- ![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme) -->
+<!-- ![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme) 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</p> 
+-->
 
 <!-- Contact  
 ### Connect with me
