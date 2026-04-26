@@ -1,4 +1,8 @@
 <!-- header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile+!;AI+%26+Data+Engineering+Student+%40+EPT;Always+learning+new+things)](https://git.io/typing-svg)
@@ -12,7 +16,9 @@
 -->
 
 <!-- bio -->
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117" width="38%" />
+-->
 
 **Hi, I am Tcherno**
 
@@ -36,12 +42,12 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 | **ML Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat&logo=pytorch&logoColor=8B949E) ![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=flat&logo=tensorflow&logoColor=8B949E) ![scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=flat&logo=scikitlearn&logoColor=8B949E) ![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=flat&logo=huggingface&logoColor=8B949E) ![Pyro](https://img.shields.io/badge/Pyro-161b22?style=flat&logoColor=8B949E) ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat&logo=opencv&logoColor=8B949E) |
 | **Technologies & Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat&logo=fastapi&logoColor=8B949E) ![Django](https://img.shields.io/badge/Django-161b22?style=flat&logo=django&logoColor=8B949E) ![Angular](https://img.shields.io/badge/Angular-161b22?style=flat&logo=angular&logoColor=8B949E) ![Streamlit](https://img.shields.io/badge/Streamlit-161b22?style=flat&logo=streamlit&logoColor=8B949E) ![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat&logoColor=8B949E) ![Spark](https://img.shields.io/badge/Spark-161b22?style=flat&logo=apachespark&logoColor=8B949E) ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat&logo=docker&logoColor=8B949E) ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-161b22?style=flat&logoColor=8B949E) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-161b22?style=flat&logo=amazonaws&logoColor=8B949E) ![GCP](https://img.shields.io/badge/GCP-161b22?style=flat&logo=googlecloud&logoColor=8B949E) ![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=flat&logo=kubernetes&logoColor=8B949E) ![CI/CD](https://img.shields.io/badge/CI/CD-161b22?style=flat&logoColor=8B949E) ![MLOps](https://img.shields.io/badge/MLOps-161b22?style=flat&logoColor=8B949E) ![MLflow](https://img.shields.io/badge/MLflow-161b22?style=flat&logo=mlflow&logoColor=8B949E) ![Railway](https://img.shields.io/badge/Railway-161b22?style=flat&logo=railway&logoColor=8B949E) |
-| **Big Data** | ![PySpark](https://img.shields.io/badge/PySpark-161b22?style=flat&logo=apachespark&logoColor=8B949E) ![Hadoop](https://img.shields.io/badge/Hadoop-161b22?style=flat&logo=apachehadoop&logoColor=8B949E) ![Kafka](https://img.shields.io/badge/Kafka-161b22?style=flat&logo=apachekafka&logoColor=8B949E) ![Trino](https://img.shields.io/badge/Trino-161b22?style=flat&logoColor=8B949E) |
+| **Big Data** | ![PySpark](https://img.shields.io/badge/PySpark-161b22?style=flat&logo=apachespark&logoColor=8B949E) ![Hadoop](https://img.shields.io/badge/Hadoop-161b22?style=flat&logo=apachehadoop&logoColor=8B949E) ![Kafka](https://img.shields.io/badge/Kafka-161b22?style=flat&logo=apachekafka&logoColor=8B949E) ![Trino](https://img.shields.io/badge/Trino-161b22?style=flat&logoColor=8B949E) ![dbt](https://img.shields.io/badge/dbt-161b22?style=flat&logo=dbt&logoColor=8B949E) ![Airflow](https://img.shields.io/badge/Airflow-161b22?style=flat&logo=apacheairflow&logoColor=8B949E) ![MinIO](https://img.shields.io/badge/MinIO-161b22?style=flat&logo=minio&logoColor=8B949E) ![Apache Ranger](https://img.shields.io/badge/Ranger-161b22?style=flat&logo=apache&logoColor=8B949E) ![Apache Iceberg](https://img.shields.io/badge/Iceberg-161b22?style=flat&logo=apache&logoColor=8B949E) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat&logo=postgresql&logoColor=8B949E) ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat&logo=mongodb&logoColor=8B949E) ![Neo4j](https://img.shields.io/badge/Neo4j-161b22?style=flat&logo=neo4j&logoColor=8B949E) ![ChromaDB](https://img.shields.io/badge/ChromaDB-161b22?style=flat&logoColor=8B949E) ![OpenSearch](https://img.shields.io/badge/OpenSearch-161b22?style=flat&logoColor=8B949E) ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat&logo=sqlite&logoColor=8B949E) |
-| **Soft Skills** | ![Teamwork](https://img.shields.io/badge/Teamwork-161b22?style=flat&logoColor=8B949E) ![Autonomy](https://img.shields.io/badge/Autonomy-161b22?style=flat&logoColor=8B949E) ![Problem-solving](https://img.shields.io/badge/Problem--solving-161b22?style=flat&logoColor=8B949E) ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-161b22?style=flat&logoColor=8B949E) ![Curiosity](https://img.shields.io/badge/Curiosity-161b22?style=flat&logoColor=8B949E) ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-161b22?style=flat&logoColor=8B949E) ![Communication](https://img.shields.io/badge/Communication-161b22?style=flat&logoColor=8B949E) ![Time Management](https://img.shields.io/badge/Time%20Management-161b22?style=flat&logoColor=8B949E) |
+| **Soft Skills** | ![Teamwork](https://img.shields.io/badge/Teamwork-161b22?style=flat&logoColor=8B949E) ![Problem-solving](https://img.shields.io/badge/Problem--solving-161b22?style=flat&logoColor=8B949E) ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-161b22?style=flat&logoColor=8B949E) ![Curiosity](https://img.shields.io/badge/Curiosity-161b22?style=flat&logoColor=8B949E) ![Communication](https://img.shields.io/badge/Communication-161b22?style=flat&logoColor=8B949E) ![Time Management](https://img.shields.io/badge/Time%20Management-161b22?style=flat&logoColor=8B949E) |
 
 <!-- stats -->
-**GitHub Stats**
+**Stats**
 
 <div align="center">
 
